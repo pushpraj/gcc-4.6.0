@@ -1,0 +1,8 @@
+
+Add gcc, build and install directories.
+And add softlinks to them as 
+~/gccSource
+~/gccBuild
+~/gccInstall
+
+
